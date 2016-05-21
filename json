@@ -1,0 +1,16 @@
+{
+   "wallpapers": [
+      {
+         "author": "Narendra Kumar",
+         "url": "https://github.com/narendrakumar987/Pure-Wall-lite/blob/master/pure1_wall%20(3144X2360).jpg",
+         "name": "Pure1",
+         "thumbnail": "https://github.com/narendrakumar987/Pure-Wall-lite/blob/master/pure1_wall_thumb%20(409X307).jpg"
+      },
+      {
+         "author": "Narendra Kumar",
+         "url": "https://github.com/narendrakumar987/Pure-Wall-lite/blob/master/pure2_wall%20(3144X2360).jpg",
+         "name": "Pure2",
+         "thumbnail": "https://github.com/narendrakumar987/Pure-Wall-lite/blob/master/pure2_wall_thumb%20(409X307).jpg"
+      }
+       ]
+}
